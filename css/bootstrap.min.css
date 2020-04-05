@@ -123,7 +123,7 @@ hr {
 }
 
 pre {
-    overflow: auto
+    overflow: scroll
 }
 
 code,
