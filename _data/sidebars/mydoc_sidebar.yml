@@ -36,6 +36,10 @@ entries:
       url: /mydoc_k8s-pod.html
       output: web
 
+    - title: ConfigMap
+      url: /mydoc_k8s-configmap.html
+      output: web
+
     - title: Replicaset
       url: /mydoc_k8s-replicaset.html
       output: web

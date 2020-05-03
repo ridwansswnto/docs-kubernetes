@@ -6,11 +6,11 @@ summary: "play with some definition on k8s like pod, deployment, services, netwo
 sidebar: mydoc_sidebar
 permalink: mydoc_k8s-pod.html
 folder: k8s
-toc: false
+toc: true
 ---
 
 ## POD
-The pod is a group of one or more containers and the smallerst deployable unit in ukbernetes:
+The pod is a group of one or more containers and the smallerst deployable unit in kubernetes:
 Each Pod is isolated by the following Linux namespaces:
 a. The process ID (PID)
 b. The network namespace
