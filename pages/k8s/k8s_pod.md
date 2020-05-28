@@ -184,6 +184,8 @@ Events:                   <none>
 
 {% include image.html file="image1.png" caption="halaman yang sudah dibuat" %}
 
+{% include image.html file="testdulu.jpg" caption="halaman yang sudah dibuat" %}
+
 
 - Delete svc with `kubectl delete svc nginx-pod` and pod with `kubectl delete pod nginx-pod`
 
