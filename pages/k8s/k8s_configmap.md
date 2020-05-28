@@ -277,3 +277,6 @@ Events:
 untuk lebih detail ada beberapa link yang dapat membantu menjelaskan secara detail
 1. [ultimate configMap Guide](https://matthewpalmer.net/kubernetes-app-developer/articles/ultimate-configmap-guide-kubernetes.html)
 2. [Introduction secret and configmap](https://opensource.com/article/19/6/introduction-kubernetes-secrets-and-configmaps)
+
+
+<script src="https://gist.github.com/ridwansswnto/2b1b414f5151c2213257f4aebbba60cf.js"></script>
