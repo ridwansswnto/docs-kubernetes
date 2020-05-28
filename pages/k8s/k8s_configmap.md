@@ -280,3 +280,5 @@ untuk lebih detail ada beberapa link yang dapat membantu menjelaskan secara deta
 
 
 <script src="https://gist.github.com/ridwansswnto/2b1b414f5151c2213257f4aebbba60cf.js"></script>
+
+<script src="https://gist.github.com/ridwansswnto/ec82e7dd949438f1794394a1eb4f85dd.js"></script>
